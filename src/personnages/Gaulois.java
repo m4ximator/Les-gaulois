@@ -34,6 +34,4 @@ public class Gaulois {
 		+ ", effetPotion=" + effetPotion + "]";
 		}
 
-
-
 }
